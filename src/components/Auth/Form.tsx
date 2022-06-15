@@ -3,7 +3,8 @@
 const AuthForm = ()=>{
 
     return (
-        <div>auth form</div>
+        <div>Auth form</div>
+        
     )
 
 }
